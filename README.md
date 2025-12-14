@@ -176,8 +176,6 @@
   <p><strong>RoboDog Platform</strong></p>
   <img src="images/robodog_final_assembly.jpg" alt="RoboDog Final Assembly" width="600" />
 
-  <p><strong>Wiring / Electronics Layout</strong></p>
-  <img src="images/wiring_diagram.png" alt="Wiring Diagram" width="600" />
 </div>
 
 <hr />
@@ -195,7 +193,9 @@
   <li>Turn Left</li>
   <li>Turn Right</li>
   <li>360 Room Clear</li>
-  <li>Left/
+  <li>Left</li>
+</ul>ul
+  
 
 <h2 id="#ros2-network">ROS 2 Network</h2>
 <p align="center">
