@@ -166,11 +166,10 @@
 
 <h2 id="hardware">Hardware</h2>
 <ul>
-  <li>Raspberry Pi / Jetson (compute platform)</li>
-  <li>OAK-D or USB webcam</li>
+  <li>Raspberry Pi </li>
+  <li>OAK-D and USB webcam</li>
   <li>VESC motor controller</li>
   <li>Speaker</li>
-  <li>Optional LIDAR + gimbal</li>
 </ul>
 
 <div align="center">
