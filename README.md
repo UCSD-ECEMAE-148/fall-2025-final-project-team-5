@@ -54,7 +54,7 @@
 <ul>
   <li><strong>Mediapipe</strong> landmark-based hand gesture detection</li>
   <li><strong>ROS2</strong> distributed control</li>
-  <li><strong>Roboflow</strong> object detection</li>
+  <li><strong>RoboflowOakD</strong> object detection</li>
   <li><strong>Speaker output</strong> for audible reporting</li>
 </ul>
 
@@ -98,7 +98,7 @@
 
 <h3>3. Object Detection</h3>
 <p>
-  Using Roboflow/YOLO, the system detects:
+  Using RoboflowOakD, the system detects:
 </p>
 <ul>
   <li><strong>Person</strong></li>
