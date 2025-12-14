@@ -54,7 +54,7 @@
 <ul>
   <li><strong>Mediapipe</strong> landmark-based hand gesture detection</li>
   <li><strong>ROS2</strong> distributed control</li>
-  <li><strong>Roboflow / YOLO</strong> object detection</li>
+  <li><strong>Roboflow</strong> object detection</li>
   <li><strong>Speaker output</strong> for audible reporting</li>
   <li>Optional <strong>LIDAR + gimbal</strong> for extended scanning</li>
 </ul>
