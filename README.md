@@ -21,7 +21,7 @@
   <li><a href="#original-goals">Original Goals</a></li>
   <li><a href="#goals-we-met">Goals We Met</a></li>
   <li><a href="#our-hopes-and-dreams">Our Hopes and Dreams</a></li>
-  <li><a href="#stretch-goals">Stretch Goals</a></li>
+  <li><a href="#stretch-goals">If We Had More Time</a></li>
   <li><a href="#final-project-videos">Final Project Videos</a></li>
   <li><a href="#hardware">Hardware</a></li>
   <li><a href="#software-design">Software Design</a></li>
@@ -135,11 +135,10 @@
 
 <hr />
 
-<h2 id="stretch-goals">Stretch Goals</h2>
+<h2 id="stretch-goals">If We Had More Time</h2>
 <ul>
   <li>2-axis gimbal for full panoramic scans without moving the car</li>
   <li>Improved LIDAR integration to validate detections and assist in low light</li>
-  <li>Better hardware acceleration using a Pi HAT or upgraded compute module</li>
   <li>Tighter gesture-to-command integration between object detection and command node</li>
 </ul>
 
