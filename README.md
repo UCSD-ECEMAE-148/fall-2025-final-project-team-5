@@ -205,7 +205,37 @@
 
 <hr />
 
-<h2 id="">Gantt Chart</h2>
+<h2 id="#gantt-chart">Gantt Chart</h2>
 <p align="center">
   <img src="images/gantt.png" alt="Gantt Chart" width="600">
+</p>
+
+<hr />
+
+<h2 id="#course-deliverables">Course Deliverables</h2>
+<p>
+Insert videos here
+</p>
+
+<hr />
+
+<h2 id="#acknowledgments">Acknowledgements</h2>
+<p>
+  We would like to acknowledge and express our gratitude to the staff behind this class, Professor Silberman, and the TAs Winston, and Aryan (the GOAT) for all the assistance with troubleshooting and programming issues. Thank you for the quarter and putting up with us!
+</p>
+
+<h2 id="">Contact</h2>
+<p>
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; max-width: 400px;">
+
+<h3>Contact Information</h3>
+
+<ul>
+  <li><strong>Luis</strong>: ldg002@ucsd.edu</li>
+  <li><strong>Nemo</strong>: nqdinh@ucsd.edu</li>
+  <li><strong>Danny</strong>: desalter@ucsd.edu</li>
+  <li><strong>Anthony</strong>: afloresmendez@ucsd.edu</li>
+</ul>
+
+</div>
 </p>
