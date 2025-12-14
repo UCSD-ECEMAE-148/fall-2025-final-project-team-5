@@ -1,5 +1,5 @@
 <h1>148-fall-2025-final-project-team-5</h1>
-<p>148-fall-2025-final-project-team-5 created by GitHub Classroom</p>
+//<p>148-fall-2025-final-project-team-5 created by GitHub Classroom</p>
 
 
 <!-- PROJECT LOGO -->
@@ -201,4 +201,11 @@
 <h2 id="ros2-network">ROS 2 Network</h2>
 <p align="center">
   <img src="images/ros_architecture.png" alt="ROS Architecture" width="600">
+</p>
+
+<hr />
+
+<h2 id="">Gantt Chart</h2>
+<p align="center">
+  <img src="images/gantt.png" alt="Gantt Chart" width="600">
 </p>
