@@ -175,7 +175,7 @@
 
 <div align="center">
   <p><strong>RoboDog Platform</strong></p>
-  <img src="images/robodog_final_assembly.jpg" alt="RoboDog Final Assembly" width="600" />
+  <img src="images/IMG_8785.jpg" alt="RoboDog Final Assembly" width="600" />
 
 </div>
 
